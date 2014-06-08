@@ -7,11 +7,8 @@ You’ve probably been hearing a lot recently about Bitcoin and are wondering wh
 At its core Bitcoin is a combination of the following;
 
 * **Digital currency** (think electronic cash controlled only by you)
-
 * **Digital asset/commodity** (think stocks, bonds, etc.)
-
 * **A deflationary store of wealth** (think gold)
-
 * **A protocol for trustless consensus known as the Blockchain**  This is probably the most important function of bitcoin and was considered an impossible computer science problem until Bitcoin solved it (see [Byzantines Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) for further info).  This unique solution is enabling bitcoin to rapidly become a new protocol for value transfer on the internet similar to how TCP/IP or HTTP are used as information transfer protocols.  This protocol will allow for thousands of new applications including smart contracts, asset swaps, Distributed Autonomous Organizations (DAOs), smart law, verifiable voting, etc. that are only beginning to be developed.  
 
 Some fundamental properties of Bitcoin that make it different from other forms of money;
