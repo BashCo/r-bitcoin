@@ -4,7 +4,7 @@ You’ve probably been hearing a lot recently about Bitcoin and are wondering wh
 
 #### Quick overview
 
-At it's core Bitcoin is a combination of the following;
+At its core Bitcoin is a combination of the following;
 
 * **Digital currency** (think electronic cash controlled only by you)
 
