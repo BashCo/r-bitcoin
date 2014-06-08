@@ -1,4 +1,4 @@
-Welcome to Bitcoin! 
+=== Welcome to Bitcoin! 
 You’ve probably been hearing a lot recently about Bitcoin and are wondering what the big deal is.  Nothing quite like Bitcoin has ever existed before so it is difficult for a lot of people to conceptualize what it is exactly.  This is mainly due to the fact that it functions as a combination of many things simultaneously (some of which had never existed before!).  
 Quick overview
 At its core Bitcoin is a combination of the following;
