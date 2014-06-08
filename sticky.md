@@ -42,11 +42,8 @@ First off, you can buy any amount of bitcoin (from as little as $5 worth) but ne
 #### Where can I spend my Bitcoins?
 
 * [Coinmap.org](http://coinmap.org/) local businesses accepting bitcoins
-
 * [Overstock.com](http://www.overstock.com/) everything under the sun
-
 * [Gyft.com]( http://www.gyft.com/) thousands of retailers such as Amazon, Target, Whole Foods, CVS, Home Depot, Sears, etc.
-
 * [Tigerdirect.com](http://www.tigerdirect.com/) all your electronic needs
 
 #### Can I mine bitcoin?
@@ -58,12 +55,11 @@ Anyone can mine for Bitcoins but you will most likely operate at a loss unless y
 Use 2 Factor Authentication (2FA) everywhere it is offered (mobile wallet, exchange, email, etc.).  Google Authenticator and Authy are two great apps for handling 2FA. It's important to keep a backup of your 2FA tokens in case your phone gets lost.
 
 * [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), 
-
 * [iOS](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8)   
 
-* Mobile wallets are good for storing as much cash as you would be comfortable carrying in your physical wallet for convenient “on the go” spending at retailers, etc.  
+Mobile wallets are good for storing as much cash as you would be comfortable carrying in your physical wallet for convenient “on the go” spending at retailers, etc.  
 
-* Bitcoin intended for “savings” should be kept in an offline wallet (also known as cold storage or paper wallet).  Instructions on how to set up offline wallets can be found [here](http://www.coindesk.com/information/paper-wallet-tutorial/).  At a minimum you should disconnect your computer from the internet when generating offline wallets but ideally you should be running on a clean operating system as well (either a computer that has never & will never be online or by booting into a [LiveUSB](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) linux system).  
+Bitcoin intended for “savings” should be kept in an offline wallet (also known as cold storage or paper wallet).  Instructions on how to set up offline wallets can be found [here](http://www.coindesk.com/information/paper-wallet-tutorial/).  At a minimum you should disconnect your computer from the internet when generating offline wallets but ideally you should be running on a clean operating system as well (either a computer that has never & will never be online or by booting into a [LiveUSB](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) linux system).  
 
 **Note:** Do not use brainwallets unless you are an expert, they are known to be vulnerable to theft unless set up correctly.
 
@@ -78,21 +74,17 @@ Use 2 Factor Authentication (2FA) everywhere it is offered (mobile wallet, excha
 #### Desktop Wallets
 
 * [Amory](https://bitcoinarmory.com/)
-
 * [Electrum](https://electrum.org/)
-
 * [Multibit](https://multibit.org/)
 
 #### Tipping
 
 * [Changetip](https://www.changetip.com/) for tipping on reddit (/u/changetip), twitter (@changetip) and github (@changetip) with more coming soon!
-
 * [Quickcoin](http://www.quickcoin.co/) for tipping easily on Facebook
 
 #### News sites & additional resources
 
 * [Coindesk](http://www.coindesk.com/) for bitcoin related news
-
 * [Tradeblock](https://tradeblock.com/) for news, markets and mining.  
 
 The [Whitepaper](https://bitcoin.org/bitcoin.pdf) that started it all by none other than Satoshi Nakamoto himself!
