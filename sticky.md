@@ -8,7 +8,8 @@ At its core Bitcoin is a combination of the following;
 
 * **Digital currency** (think electronic cash controlled only by you)
 * **Digital asset/commodity** (think stocks, bonds, etc.)
-* **A deflationary store of wealth** (think gold)
+* **A deflationary store of wealth** (think gold, or a bank account controlled by you)
+* **A worldwide payment mechanism** (think credit cards and wire transfers, such as Visa, MasterCard, or Western Union)
 * **A protocol for trustless consensus known as the Blockchain**  This is probably the most important function of bitcoin and was considered an impossible computer science problem until Bitcoin solved it (see [Byzantines Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance) for further info).  This unique solution is enabling bitcoin to rapidly become a new protocol for value transfer on the internet similar to how TCP/IP or HTTP are used as information transfer protocols.  This protocol will allow for thousands of new applications including smart contracts, asset swaps, Distributed Autonomous Organizations (DAOs), smart law, verifiable voting, etc. that are only beginning to be developed.  
 
 Some fundamental properties of Bitcoin that make it different from other forms of money;
@@ -37,7 +38,7 @@ First off, you can buy any amount of bitcoin (from as little as $5 worth) but ne
 
 * **China:**  [OK Coin](https://www.okcoin.com/), [Huobi]( https://www.huobi.com/), [BTC China]( https://vip.btcchina.com/)
 
-**Note:** Only keep coins on an exchange that are going to be used for trading, if you are just purchasing coins make sure to transfer them to your personal wallet immediately after purchase.  A good rule of thumb is that if you are not the sole possessor of your private keys you don’t own the bitcoins.  If you leave your coins on the exchanges you are essentially accepting an IOU from the exchange for your coins as they are the ones holding your private keys.  
+**Note:** Only keep coins on an exchange that are going to be used for trading, if you are just purchasing coins make sure to transfer them to your personal wallet (your private key) immediately after purchase, and make sure your wallet is encrypted.  A good rule of thumb is that if you are not the sole possessor of your private keys you don’t own the bitcoins.  If you leave your coins on the exchanges you are essentially accepting an IOU from the exchange for your coins as they are the ones holding your private keys.  
 
 #### Where can I spend my Bitcoins?
 
@@ -57,7 +58,7 @@ Use 2 Factor Authentication (2FA) everywhere it is offered (mobile wallet, excha
 * [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), 
 * [iOS](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8)   
 
-Mobile wallets are good for storing as much cash as you would be comfortable carrying in your physical wallet for convenient “on the go” spending at retailers, etc.  
+Mobile wallets are good for storing as much cash as you would be comfortable carrying in your physical wallet, for convenient “on the go” spending at retailers, etc.  
 
 Bitcoin intended for “savings” should be kept in an offline wallet (also known as cold storage or paper wallet).  Instructions on how to set up offline wallets can be found [here](http://www.coindesk.com/information/paper-wallet-tutorial/).  At a minimum you should disconnect your computer from the internet when generating offline wallets but ideally you should be running on a clean operating system as well (either a computer that has never & will never be online or by booting into a [LiveUSB](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows) linux system).  
 
@@ -73,9 +74,9 @@ Bitcoin intended for “savings” should be kept in an offline wallet (also kno
 
 #### Desktop Wallets
 
-* [Amory](https://bitcoinarmory.com/)
-* [Electrum](https://electrum.org/)
 * [Multibit](https://multibit.org/)
+* [Electrum](https://electrum.org/)
+* [Amory](https://bitcoinarmory.com/)
 
 #### Tipping
 
