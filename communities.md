@@ -59,3 +59,4 @@ Clones of Bitcoin (Litecoin, etc.) are not listed.
 * [Namecoin](/r/namecoin)
 * [Ripplers](http://www.reddit.com/r/ripplers)
 * [BitShares](/r/BitShares)
+* [Zerocoin](http://en.wikipedia.org/wiki/Zerocoin)
