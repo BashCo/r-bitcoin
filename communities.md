@@ -14,13 +14,12 @@
 * [BitcoinStocks](/r/BitcoinStocks)
 * [CryptoMarkets](/r/CryptoMarkets)
 * [Jobs4Bitcoin] (/r/Jobs4bitcoins)
-* [BitBuskers] (http://www.reddit.com/r/bitbuskers)
+* [BitBuskers] (/r/bitbuskers)
 * [CryptoTrade](/r/CryptoTrade) 
 
 #####Mining
 
 * [BitcoinMining](/r/bitcoinmining)
-* [MtRed](/r/mtred) - Inactive?
 
 #####Info
 
@@ -30,7 +29,7 @@
 #####Other
 
 * [Bitcoin Magazine](/r/BitcoinMagazine)
-* [changetip](/r/changetip)
+* [ChangeTip](/r/changetip)
 * [BitcoinMusic](/r/bitcoinmusic)
 
 ###Non-Bitcoin communities
@@ -47,7 +46,7 @@
 
 #####Freedom
 
-* [Libertarian](http://www.reddit.com/r/libertarian)
+* [Libertarian](/r/libertarian)
 * [Anarcho-Capitalism](/r/Anarcho_Capitalism)
 * [CryptoAnarchy](/r/cryptoanarchy)
 * [Agorism](/r/Agorism)
@@ -57,6 +56,8 @@
 Clones of Bitcoin (Litecoin, etc.) are not listed.
 
 * [Namecoin](/r/namecoin)
-* [Ripplers](http://www.reddit.com/r/ripplers)
+* [Ripplers](/r/ripplers)
 * [BitShares](/r/BitShares)
-* [Zerocoin](http://en.wikipedia.org/wiki/Zerocoin)
+* [Zerocoin](/r/ZeroCoin)
+* [Ethereum](/r/ethereum)
+* [Monero](/r/monero)
