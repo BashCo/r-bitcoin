@@ -1,4 +1,4 @@
-Bitcoin is *the currency of the Internet*: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can *be your own bank*.
+Bitcoin is *the Internet of currency*: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever; there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can *be your own bank*.
 
 If you are new to Bitcoin, check out [We Use Coins](https://www.weusecoins.com/en/) and [Bitcoin.org](http://bitcoin.org/). You can also explore the [Bitcoin Wiki](http://bitcoin.it):
 
@@ -15,7 +15,7 @@ If you are new to Bitcoin, check out [We Use Coins](https://www.weusecoins.com/e
 
 ###Community rules
 
-* Do not use URL shortening services: always submit the real link.
+* Do not use URL shortening services; always submit the original link.
 * Begging/asking for bitcoins is absolutely not allowed, no matter how badly you need the bitcoins. Only requests for donations to large, recognized charities are allowed, and only if there is good reason to believe that the person accepting bitcoins on behalf of the charity is trustworthy.
 * News articles that do not contain the word "Bitcoin" are usually off-topic. This subreddit is not about general financial news.
 * Submissions that are mostly about some other cryptocurrency belong elsewhere. For example, /r/CryptoCurrency is a good place to discuss all cryptocurrencies.
@@ -32,16 +32,16 @@ If you are new to Bitcoin, check out [We Use Coins](https://www.weusecoins.com/e
 ####Bitcoin communities
 
 * **[Bitcoin Beginners](/r/bitcoinbeginners)**
-* [Local Bitcoin communities](http://www.reddit.com/r/Bitcoin/wiki/local_communities)
+* [Local Bitcoin communities](/r/Bitcoin/wiki/local_communities)
 * [BitcoinMining](/r/bitcoinmining)
 * [ChangeTip](/r/changetip)
 * [Girls Gone Bitcoin](/r/GirlsGoneBitcoin) (NSFW)
 * [BitMarket](/r/bitmarket)
 * [BitcoinMarkets](/r/BitcoinMarkets)
-* [Jobs4Bitcoin] (/r/Jobs4bitcoins)
+* [Jobs4Bitcoins] (/r/Jobs4bitcoins)
 * [BitcoinStocks](/r/BitcoinStocks)
 * [CryptoMarkets] (/r/CryptoMarkets)
-* [[More]] (http://www.reddit.com/r/Bitcoin/wiki/communities)
+* [[More]] (/r/Bitcoin/wiki/communities)
 
 ####Non-Bitcoin communities
 
@@ -51,16 +51,16 @@ If you are new to Bitcoin, check out [We Use Coins](https://www.weusecoins.com/e
 * [Anarcho-Capitalism](/r/Anarcho_Capitalism)
 * [Crypto](/r/crypto)
 * [CryptoAnarchy](/r/cryptoanarchy)
-* [[More]](http://www.reddit.com/r/Bitcoin/wiki/communities)
+* [[More]](/r/Bitcoin/wiki/communities)
 
 ###Join us on IRC
 
-irc.freenode.net *#bitcoin* and *#bitcoin-dev*
+irc.freenode.net [*#bitcoin*](https://webchat.freenode.net/?channels=bitcoin) and [*#bitcoin-dev*](https://webchat.freenode.net/?channels=bitcoin-dev)
 
 ###Other Bitcoin sites
 
 **[Bitcoin Forum](https://bitcointalk.org)**  
-[Bitcoin Stack Exchange](http://bitcoin.stackexchange.com/)
+[Bitcoin Stack Exchange](https://bitcoin.stackexchange.com)
 
 
 
@@ -70,6 +70,6 @@ We previously collected donations to fund Bitcoin advertising efforts, but we no
 
 ###Style sheet credits
 
-The CSS used by this subreddit is the Erdune Theme modified by /u/Annihilia and /u/konkedas .
+The CSS used by this subreddit is the Erdune Theme modified by /u/Annihilia and /u/konkedas.
 
-Logo design by /u/Annihilia. [Check out his other work here](http://www.lunarcannon.com/).
+Logo design by /u/Annihilia. [Check out his other work here](http://www.lunarcannon.com).
