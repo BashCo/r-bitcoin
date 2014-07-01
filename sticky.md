@@ -20,7 +20,7 @@ You can think about bits & satoshis how you think of dollars & cents (1 bit = 10
 
 * Open source.  The bitcoin software is [openly available on GitHub](https://github.com/bitcoin/bitcoin) for anyone to review, audit, clone, or contribute towards development.  
 
-* Decentralized.  Bitcoin uses peer-to-peer technology to operate without the need for any third party middleman.  This significantly reduces fees associated with normal payment networks (PayPal, Visa, bank wire, etc.) from 2-3%+ to less than 1%.  At the same time decentralization makes it highly resilient (see [antifragile]( https://en.wikipedia.org/wiki/Antifragile)) as there is no central point of failure and the protocol can be updated as needed to address any issues that arise.
+* Decentralized.  Bitcoin uses peer-to-peer technology to operate without the need for any third party middleman.  This significantly reduces fees associated with normal payment networks (PayPal, Visa, bank wire, etc.) from 2-3%+ to less than 1%.  At the same time decentralization makes it highly resilient (see [antifragile](https://en.wikipedia.org/wiki/Antifragile)) as there is no central point of failure and the protocol can be updated as needed to address any issues that arise.
 
 * Irreversible.  Once a Bitcoin payment is sent and confirmed by the network there is no way to undo the transaction.  This is a big bonus for merchants as it eliminates chargebacks.  Buyers however should make sure that the party they are transacting with is reputable before sending payment.
 
@@ -32,20 +32,22 @@ This guide tries to address the most common and important concepts below but if 
 
 First off, you can buy any amount of bitcoin (from as little as $5 worth) but never buy more than you would be willing to lose, there are no guarantees that bitcoin will rise in value or even exist in the future although cryptocurrencies in general seem like they are here to stay and bitcoin has a lot of advantages over its competitors.  
 
-* **US:** [Coinbase.com](https://coinbase.com/) (for linking your bank account), [Mycelium mobile wallet](https://play.google.com/store/apps/details?id=com.mycelium.wallet) with localtrader or [Localbitcoins.com](https://localbitcoins.com/) (for buying with cash and extra anonymity).  
+* **US:** [Coinbase.com](https://coinbase.com) (for linking your bank account), [Mycelium mobile wallet](https://play.google.com/store/apps/details?id=com.mycelium.wallet) with localtrader or [Localbitcoins.com](https://localbitcoins.com/) (for buying with cash and extra anonymity).  
 
-* **Non-US:** [Mycelium](https://play.google.com/store/apps/details?id=com.mycelium.wallet), [Localbitcoins.com](https://localbitcoins.com/), [Bitstamp](https://www.bitstamp.net/), [Bitfinex](https://www.bitfinex.com/), [btc-e]( https://btc-e.com/), [Kraken](https://www.kraken.com/), [Vault of Satoshi](https://www.vaultofsatoshi.com/), [Cavirtex](https://www.cavirtex.com/home), etc. 
+* **Non-US:** [Mycelium](https://play.google.com/store/apps/details?id=com.mycelium.wallet), [Localbitcoins.com](https://localbitcoins.com/), [Bitstamp](https://www.bitstamp.net/), [Bitfinex](https://www.bitfinex.com/), [btc-e](https://btc-e.com/), [Kraken](https://www.kraken.com/), [Vault of Satoshi](https://www.vaultofsatoshi.com/), [Cavirtex](https://www.cavirtex.com/home), [Bitalo](https://bitalo.com), etc. 
 
-* **China:**  [OK Coin](https://www.okcoin.com/), [Huobi]( https://www.huobi.com/), [BTC China]( https://vip.btcchina.com/)
+* **China:**  [OK Coin](https://www.okcoin.com), [Huobi](https://www.huobi.com), [BTC China](https://vip.btcchina.com)
 
 **Note:** Only keep coins on an exchange that are going to be used for trading, if you are just purchasing coins make sure to transfer them to your personal wallet (your private key) immediately after purchase, and make sure your wallet is encrypted.  A good rule of thumb is that if you are not the sole possessor of your private keys you don’t own the bitcoins.  If you leave your coins on the exchanges you are essentially accepting an IOU from the exchange for your coins as they are the ones holding your private keys.  
 
 #### Where can I spend my Bitcoins?
 
-* [Coinmap.org](http://coinmap.org/) local businesses accepting bitcoins
-* [Overstock.com](http://www.overstock.com/) everything under the sun
-* [Gyft.com]( http://www.gyft.com/) thousands of retailers such as Amazon, Target, Whole Foods, CVS, Home Depot, Sears, etc.
-* [Tigerdirect.com](http://www.tigerdirect.com/) all your electronic needs
+* [Coinmap.org](http://coinmap.org) local businesses accepting bitcoins
+* [Overstock.com](http://www.overstock.com) everything under the sun
+* [Gyft.com](http://www.gyft.com) thousands of retailers such as Amazon, Target, Whole Foods, CVS, Home Depot, Sears, etc.
+* [Tigerdirect.com](http://www.tigerdirect.com) all your electronic needs
+* [Reddit.com](https://ssl.reddit.com/gold) Reddit gold
+* [Expedia.com](http://www.expedia.com) for all of your travel needs
 
 #### Can I mine bitcoin?
 
@@ -66,27 +68,27 @@ Bitcoin intended for “savings” should be kept in an offline wallet (also kno
 
 #### Mobile Wallets
 
-* [Coinbase.com](https://coinbase.com/) is the easiest for newcomers and is generally trusted but be aware that they hold your private keys so if they ever disappeared for any reason you would have no recourse for recovering your coins.
+* [Coinbase.com](https://coinbase.com) is the easiest for newcomers and is generally trusted but be aware that they hold your private keys so if they ever disappeared for any reason you would have no recourse for recovering your coins.
 
 * [Mycelium](https://play.google.com/store/apps/details?id=com.mycelium.wallet) has a nice interface and allows you to store your private keys so they can’t run away with your coins.  They also have a great local trader feature for finding other people who want to buy & sell bitcoin in your area.
 
-* [Blockchain]( https://play.google.com/store/apps/details?id=piuk.blockchain.android) allows you to store your private keys and is well respected in the community.  
+* [Blockchain](https://play.google.com/store/apps/details?id=piuk.blockchain.android) allows you to store your private keys and is well respected in the community.  
 
 #### Desktop Wallets
 
-* [Multibit](https://multibit.org/)
-* [Electrum](https://electrum.org/)
-* [Amory](https://bitcoinarmory.com/)
+* [Multibit](https://multibit.org)
+* [Electrum](https://electrum.org)
+* [Amory](https://bitcoinarmory.com)
 
 #### Tipping
 
-* [Changetip](https://www.changetip.com/) for tipping on reddit (/u/changetip), twitter (@changetip) and github (@changetip) with more coming soon!
+* [Changetip](https://www.changetip.com) for tipping on reddit (/u/changetip), twitter (@changetip) and github (@changetip) with more coming soon!
 * [Quickcoin](http://www.quickcoin.co/) for tipping easily on Facebook
 
 #### News sites & additional resources
 
-* [Coindesk](http://www.coindesk.com/) for bitcoin related news
-* [Tradeblock](https://tradeblock.com/) for news, markets and mining.  
+* [Coindesk](http://www.coindesk.com) for bitcoin related news
+* [Tradeblock](https://tradeblock.com) for news, markets and mining.  
 
 The [Whitepaper](https://bitcoin.org/bitcoin.pdf) that started it all by none other than Satoshi Nakamoto himself!
 Still haven't been able to get your question answered? In that case it's fine to post it here however please use the search bar to see if your question has been answered before and remember to follow the community rules outlined on the sidebar to receive a better response.  The mods are very busy so please do not message them unless you notice problems with the functionality of the subreddit or if you need your identity verified for an AMA.
